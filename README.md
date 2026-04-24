@@ -235,7 +235,6 @@ importBackup(jsonFile)
 
 ```
 beam-player/
-├── index.html          # Landing page / documentation
 ├── app.html            # Main player application
 ├── manifest.json       # PWA manifest
 └── README.md           # This file
