@@ -28,7 +28,7 @@
 
 ## 🎧 Live Demo
 
-[Launch BEAM Player](https://beamplay.netlify.app/app.html) — *Replace with your actual deployment URL*
+[Launch BEAM Player](https://beamplay.netlify.app/app.html)
 
 > **Pro Tip:** On mobile, tap "Add to Home Screen" to install BEAM as a native app!
 
