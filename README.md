@@ -284,7 +284,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Development Guidelines
 
-- Keep the vanilla JS approach — no frameworks
+- Make it yours, personalize it to you needs.
 - Maintain offline-first philosophy
 - Test on both desktop and mobile before submitting
 - Keep the app self-contained in `app.html`
